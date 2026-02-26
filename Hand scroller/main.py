@@ -39,7 +39,7 @@ tracker = HandTracker()
 model_path = 'model/hand_landmarker.task'
 
 
-pyautogui.FAILSAFE = False
+pyautogui.FAILSAFE = True
 
 
 
